@@ -2,3 +2,5 @@
 This is the README file of CARLA dir for learning.
 ---
 2022.8.18 First release
+2022.8.19 Second release
+2022.8.20 Third release
