@@ -13,3 +13,7 @@ This is the README file of CARLA dir for learning.
 Core concepts finished
 
 2022.8.22 Check out in new Linux
+
+Problems:
+- make PythonAPI -> Linux.sh -> Setup.sh 
+- sysinfo.cpp can't find thread 
